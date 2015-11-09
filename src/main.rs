@@ -1,5 +1,8 @@
 fn main() {
+    // CASTRO, Carlos
     println!("{}", generate_reference("Carlos Castro", "teste", "2015", "abc"));
+    
+    // SILVA, Carlos de Castro
     println!("{}", generate_reference("Carlos de Castro Silva", "teste", "2015", "abc"));
 }
 
